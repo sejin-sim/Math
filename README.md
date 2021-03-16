@@ -11,7 +11,7 @@
 >3.2 [좌표와 변환](https://colab.research.google.com/github/sejin-sim/Math/blob/main/3_2_%EC%A2%8C%ED%91%9C%EC%99%80_%EB%B3%80%ED%99%98.ipynb)    
 >3.3 [고윳값 분해](https://colab.research.google.com/github/sejin-sim/Math/blob/main/3_3_%EA%B3%A0%EC%9C%B3%EA%B0%92_%EB%B6%84%ED%95%B4.ipynb)    
 >3.4 [특잇값 분해](https://colab.research.google.com/github/sejin-sim/Math/blob/main/3_4_%ED%8A%B9%EC%9D%B4%EA%B0%92_%EB%B6%84%ED%95%B4.ipynb)    
->3.5 [PCA](https://github.com/sejin-sim/Math/blob/main/3_5_PCA_.ipynb)
+>3.5 [PCA](https://colab.research.google.com/github/sejin-sim/Math/blob/main/3_5_PCA_.ipynb)
 
 ### 미적분
 >4.1 함수   
