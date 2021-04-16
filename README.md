@@ -14,7 +14,7 @@
 >3.5 [PCA](https://colab.research.google.com/github/sejin-sim/Math/blob/main/3_5_PCA_.ipynb)
 
 ### 미적분
->4.1 함수   
+>4.1 [함수](https://colab.research.google.com/github/sejin-sim/Math/blob/main/4_1_%ED%95%A8%EC%88%98.ipynb)   
 >4.2 심파이를 사용한 함수 미분   
 >4.3 적분   
 >4.4 행렬의 미분    
