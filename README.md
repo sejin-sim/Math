@@ -21,7 +21,7 @@
 >4.5 [변분법](https://colab.research.google.com/github/sejin-sim/Math/blob/main/4_5_%EB%B3%80%EB%B6%84%EB%B2%95.ipynb)     
 
 ### 최적화
->5.1 최적화 기초   
+>5.1 [최적화 기초](https://colab.research.google.com/github/sejin-sim/Math/blob/main/5_1_%EC%B5%9C%EC%A0%81%ED%99%94_%EA%B8%B0%EC%B4%88.ipynb)   
 >5.2 제한조건이 있는 최적화 문제   
 >5.3 선형계획법 문제와 이차계획법 문제    
 
