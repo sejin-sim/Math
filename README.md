@@ -22,7 +22,7 @@
 
 ### 최적화
 >5.1 [최적화 기초](https://colab.research.google.com/github/sejin-sim/Math/blob/main/5_1_%EC%B5%9C%EC%A0%81%ED%99%94_%EA%B8%B0%EC%B4%88.ipynb)   
->5.2 제한조건이 있는 최적화 문제   
+>5.2 [제한조건이 있는 최적화 문제](https://colab.research.google.com/github/sejin-sim/Math/blob/main/5_2_%EC%A0%9C%ED%95%9C%EC%A1%B0%EA%B1%B4%EC%9D%B4_%EC%9E%88%EB%8A%94_%EC%B5%9C%EC%A0%81%ED%99%94.ipynb)   
 >5.3 선형계획법 문제와 이차계획법 문제    
 
 ### 확률론(Probability theory)
