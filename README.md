@@ -1,4 +1,5 @@
 # Math
+- colab기준으로 markdown 작성하였습니다. github로 접근 시 수학 기호가 에러발생되니 하단의 링크로 접속바랍니다.
 
 ### 선형대수
 >2.1 [데이터와 행렬](https://colab.research.google.com/github/sejin-sim/Math/blob/main/2_1_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80_%ED%96%89%EB%A0%AC.ipynb)    
