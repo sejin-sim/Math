@@ -41,4 +41,26 @@
 >7.5 [공분산과 상관계수](https://colab.research.google.com/github/sejin-sim/Math/blob/main/7_5_%EA%B3%B5%EB%B6%84%EC%82%B0%EA%B3%BC_%EC%83%81%EA%B4%80%EA%B3%84%EC%88%98.ipynb)    
 >7.6 [조건부기댓값과 예측 문제](https://colab.research.google.com/github/sejin-sim/Math/blob/main/7_6_%EC%A1%B0%EA%B1%B4%EB%B6%80%EA%B8%B0%EB%8C%93%EA%B0%92%EA%B3%BC_%EC%98%88%EC%B8%A1_%EB%AC%B8%EC%A0%9C.ipynb)    
 
+### 사이파이로 공부하는 확률분포 
+> 8.1 사이파이를 이용한 확률분포 분석   
+> 8.2 베르누이분포와 이항분포   
+> 8.3 카테고리분포와 다항분포   
+> 8.4 정규분포와 중심극한정리   
+> 8.5 스튜던트 t분포, 카이제곱분포, F분포   
+> 8.6 다변수정규분포   
+> 8.7 베타분포, 감마분포, 디리클레분포
+
+### 추정과 검정 
+> 9.1 확률분포의 추정   
+> 9.2 최대가능도 추정법   
+> 9.3 베이즈 추정법   
+> 9.4 검정과 유의확률   
+> 9.5 사이파이를 사용한 검정
+
+### 엔트로피
+> 10.1 엔트로피     
+> 10.2 조건부엔트로피   
+> 10.3 교차엔트로피와 쿨백-라이블러 발산   
+> 10.4 상호정보량
+
 - 참고 : 데이터사이언스 스쿨 https://datascienceschool.net/intro.html
