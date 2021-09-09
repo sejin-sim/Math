@@ -43,7 +43,7 @@
 >7.6 [조건부기댓값과 예측 문제](https://colab.research.google.com/github/sejin-sim/Math/blob/main/7_6_%EC%A1%B0%EA%B1%B4%EB%B6%80%EA%B8%B0%EB%8C%93%EA%B0%92%EA%B3%BC_%EC%98%88%EC%B8%A1_%EB%AC%B8%EC%A0%9C.ipynb)    
 
 ### 사이파이로 공부하는 확률분포 
-> 8.1 사이파이를 이용한 확률분포 분석   
+> 8.1 [사이파이를 이용한 확률분포 분석](https://colab.research.google.com/github/sejin-sim/Math/blob/main/8_1_%EC%82%AC%EC%9D%B4%ED%8C%8C%EC%9D%B4%EB%A5%BC_%EC%9D%B4%EC%9A%A9%ED%95%9C_%ED%99%95%EB%A5%A0%EB%B6%84%ED%8F%AC_%EB%B6%84%EC%84%9D.ipynb)   
 > 8.2 베르누이분포와 이항분포   
 > 8.3 카테고리분포와 다항분포   
 > 8.4 정규분포와 중심극한정리   
