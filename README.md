@@ -1,5 +1,5 @@
 # Math
-- colab기준으로 markdown 작성하였습니다. github로 접근 시 수학 기호가 에러발생되니 하단의 링크로 접속바랍니다.
+- colab기준으로 markdown 작성 : 하단의 링크로 접속 필요 (github 접근 시 수학 기호가 에러발생)
 
 ### 선형대수
 >2.1 [데이터와 행렬](https://colab.research.google.com/github/sejin-sim/Math/blob/main/2_1_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80_%ED%96%89%EB%A0%AC.ipynb)    
@@ -44,7 +44,7 @@
 
 ### 사이파이로 공부하는 확률분포 
 > 8.1 [사이파이를 이용한 확률분포 분석](https://colab.research.google.com/github/sejin-sim/Math/blob/main/8_1_%EC%82%AC%EC%9D%B4%ED%8C%8C%EC%9D%B4%EB%A5%BC_%EC%9D%B4%EC%9A%A9%ED%95%9C_%ED%99%95%EB%A5%A0%EB%B6%84%ED%8F%AC_%EB%B6%84%EC%84%9D.ipynb)   
-> 8.2 베르누이분포와 이항분포   
+> 8.2 [베르누이분포와 이항분포](https://colab.research.google.com/github/sejin-sim/Math/blob/main/8_2_%EB%B2%A0%EB%A5%B4%EB%88%84%EC%9D%B4%EB%B6%84%ED%8F%AC%EC%99%80_%EC%9D%B4%ED%95%AD%EB%B6%84%ED%8F%AC.ipynb)     
 > 8.3 카테고리분포와 다항분포   
 > 8.4 정규분포와 중심극한정리   
 > 8.5 스튜던트 t분포, 카이제곱분포, F분포   
